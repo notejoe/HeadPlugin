@@ -1,0 +1,9 @@
+name: noteHead
+main: net.notejoe.HeadPlugin.HeadPlugin
+version: 0.1
+author: notejoe
+website: [notejoe.net]
+api-version: 1.14
+commands:
+  head:
+    description: Head command
